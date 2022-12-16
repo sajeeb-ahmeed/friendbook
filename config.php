@@ -1,8 +1,8 @@
 <?php
 
 
-$dbuser = "bipul";
+$dbuser = "sajeebdb";
 $dbhost = "localhost";
-$dbpass = "Bipul281101@";
-$dbname = "bipul";
+$dbpass = "sajeebdb@";
+$dbname = "sajeeb";
 $conn = mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
