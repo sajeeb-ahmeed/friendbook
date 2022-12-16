@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
-.package-lock.json
-.bipul.sql
+/.package-lock.json
+/.bipul.sql
 
 
 # testing
